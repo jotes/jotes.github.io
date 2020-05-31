@@ -1,0 +1,8 @@
+body {
+ background-image: linear-gradient(to right, #434343 0%, black 100%);
+}
+
+header ul li img {
+	height: 36px;
+}
+
